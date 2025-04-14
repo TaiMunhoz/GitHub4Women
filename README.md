@@ -1,2 +1,2 @@
 # GitHub4Women
-Para estudos
+Para estudos e adicionar as atividades.

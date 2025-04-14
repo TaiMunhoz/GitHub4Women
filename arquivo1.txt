@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Olá Mundo!
 Olá mundo Novo!
 Novo mundo Novissimo!
 Teste da aula3
+=======
+teste novo atualizado
+>>>>>>> d9f887f87d33c364b820fc67670161a38d1e20ab
