@@ -14,7 +14,9 @@ Salvar anotações, códigos e aprendizados
 Criar pequenos projetos para testar meus conhecimentos
 
 
-📚 O que você encontrará aqui Alguns testes Pastas organizadas por tópicos ou 
+📚 O que você encontrará aqui 
+Alguns testes 
+Pastas organizadas por tópicos ou 
 aulas do curso 
 E Muita vontade de aprender
 
@@ -34,4 +36,5 @@ Progresso no curso
 
 🤝 Vamos nos conectar?
 Se você também está fazendo o curso ou quer trocar ideias, me chama!
+
 🚀 não desanime!
